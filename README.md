@@ -18,7 +18,9 @@ Building clean, scalable, and maintainable Android applications with modern deve
 - Kotlin-based Android Development  
 - Android SDK & Jetpack Components  
 - MVVM Architecture  
-- REST API Integration  
+- REST API Integration
+- Jetpack Compose
+- Clean Architecture
 - Firebase & Third-Party Libraries  
 - Debugging & Performance Optimization  
 
